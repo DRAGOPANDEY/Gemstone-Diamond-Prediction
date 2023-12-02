@@ -1,4 +1,4 @@
-# first intialize the git
+first intialize the git
 
 git add abc.txt
 
