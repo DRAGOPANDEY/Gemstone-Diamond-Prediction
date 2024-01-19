@@ -19,6 +19,5 @@ logging.basicConfig(level=logging.INFO,
 
 
 if __name__ == '__main__':
-    logging.info("here again i am tesitng")
-
+    logging.info("lets go show the resu;t")
 
