@@ -28,6 +28,7 @@ class ModelEvaluation:
 
             model_path=os.path.join("artifacts","model.pkl")
             model=load_object(model_path)
+            
 
         
 
