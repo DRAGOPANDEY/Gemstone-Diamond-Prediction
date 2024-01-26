@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/15eab40d5ed24186baf2fda3d838f46d/artifacts
+end_time: 1706295419636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15eab40d5ed24186baf2fda3d838f46d
+run_name: invincible-pig-738
+run_uuid: 15eab40d5ed24186baf2fda3d838f46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706295413738
+status: 3
+tags: []
+user_id: '91844'
