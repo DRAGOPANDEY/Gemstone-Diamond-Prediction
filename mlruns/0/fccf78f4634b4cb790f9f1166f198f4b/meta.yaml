@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/fccf78f4634b4cb790f9f1166f198f4b/artifacts
+end_time: 1706431623918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fccf78f4634b4cb790f9f1166f198f4b
+run_name: rumbling-stork-102
+run_uuid: fccf78f4634b4cb790f9f1166f198f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431620181
+status: 3
+tags: []
+user_id: '91844'

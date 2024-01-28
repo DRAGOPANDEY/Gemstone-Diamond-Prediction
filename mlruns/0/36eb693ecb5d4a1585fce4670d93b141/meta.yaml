@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/36eb693ecb5d4a1585fce4670d93b141/artifacts
+end_time: 1706431575798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36eb693ecb5d4a1585fce4670d93b141
+run_name: bedecked-ram-655
+run_uuid: 36eb693ecb5d4a1585fce4670d93b141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431571936
+status: 3
+tags: []
+user_id: '91844'

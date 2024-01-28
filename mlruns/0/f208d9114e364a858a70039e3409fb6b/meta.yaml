@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/f208d9114e364a858a70039e3409fb6b/artifacts
+end_time: 1706431393116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f208d9114e364a858a70039e3409fb6b
+run_name: suave-sheep-941
+run_uuid: f208d9114e364a858a70039e3409fb6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431388623
+status: 3
+tags: []
+user_id: '91844'

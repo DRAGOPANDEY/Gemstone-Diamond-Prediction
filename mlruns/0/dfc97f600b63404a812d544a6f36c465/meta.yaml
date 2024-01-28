@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/dfc97f600b63404a812d544a6f36c465/artifacts
+end_time: 1706431204354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfc97f600b63404a812d544a6f36c465
+run_name: dashing-sheep-925
+run_uuid: dfc97f600b63404a812d544a6f36c465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431198924
+status: 3
+tags: []
+user_id: '91844'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/1ded085776fe4360b46e542b2a124685/artifacts
+end_time: 1706431344936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ded085776fe4360b46e542b2a124685
+run_name: casual-conch-973
+run_uuid: 1ded085776fe4360b46e542b2a124685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431341121
+status: 3
+tags: []
+user_id: '91844'

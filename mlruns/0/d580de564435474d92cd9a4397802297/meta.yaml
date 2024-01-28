@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/d580de564435474d92cd9a4397802297/artifacts
+end_time: 1706431723195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d580de564435474d92cd9a4397802297
+run_name: rumbling-dolphin-704
+run_uuid: d580de564435474d92cd9a4397802297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431719295
+status: 3
+tags: []
+user_id: '91844'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/c30df1d4736145a19d66d53b14be1fff/artifacts
+end_time: 1706385041437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30df1d4736145a19d66d53b14be1fff
+run_name: enchanting-gull-141
+run_uuid: c30df1d4736145a19d66d53b14be1fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706385035523
+status: 3
+tags: []
+user_id: '91844'

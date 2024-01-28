@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/258301940d5b4f0a911cb21e11c010bc/artifacts
+end_time: 1706431249501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 258301940d5b4f0a911cb21e11c010bc
+run_name: redolent-sponge-240
+run_uuid: 258301940d5b4f0a911cb21e11c010bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431245602
+status: 3
+tags: []
+user_id: '91844'

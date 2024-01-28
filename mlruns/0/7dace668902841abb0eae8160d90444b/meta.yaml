@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91844/fsda_End_To_End/mlruns/0/7dace668902841abb0eae8160d90444b/artifacts
+end_time: 1706431749833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dace668902841abb0eae8160d90444b
+run_name: clumsy-midge-938
+run_uuid: 7dace668902841abb0eae8160d90444b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706431745810
+status: 3
+tags: []
+user_id: '91844'
