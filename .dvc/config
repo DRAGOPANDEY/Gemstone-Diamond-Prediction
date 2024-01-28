@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:/Users/91844/fsda_End_To_End/notebooks/myremote
